@@ -1,0 +1,15 @@
+{
+  "name": "Sunanda & Mohitraj · Wedding Invitation",
+  "short_name": "Sunanda & Mohitraj",
+  "description": "ಶುಭ ವಿವಾಹ · Wedding invitation, 10 December 2026",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3A0712",
+  "theme_color": "#3A0712",
+  "lang": "kn",
+  "icons": [
+    { "src": "favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
