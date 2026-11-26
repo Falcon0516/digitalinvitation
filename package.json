@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A static, mobile-first website. No build step, no server code, no frameworks. Opening the doors plays the music (only after the guest taps), then the invitation scrolls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falcon0516/digitalinvitation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Falcon0516/digitalinvitation/issues"
+  },
+  "homepage": "https://github.com/Falcon0516/digitalinvitation#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
