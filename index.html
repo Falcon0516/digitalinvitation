@@ -36,6 +36,9 @@
 <!-- deep links (#venue, ?skip=1) go straight in: set before first paint so the doors never flash -->
 <script>if(location.hash.length>1||/[?&]skip=1/.test(location.search))document.documentElement.classList.add('c-skip')</script>
 
+<!-- Vercel Web Analytics -->
+<script defer src="js/analytics.js"></script>
+
 <noscript><style>#doors,.c-ctl,.c-nav,#c-petals{display:none!important}</style></noscript>
 <link rel="stylesheet" href="css/tokens.css">
 <link rel="stylesheet" href="css/core.css">
